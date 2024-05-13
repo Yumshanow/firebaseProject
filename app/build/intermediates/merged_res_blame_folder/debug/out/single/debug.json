@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_user_image.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/user_image.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/layout_user_item.xml.flat",
+        "source": "com.example.firebase.app-main-45:/layout/user_item.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "com.example.firebase.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.firebase.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/layout_message_item.xml.flat",
+        "source": "com.example.firebase.app-main-45:/layout/message_item.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.firebase.app-main-45:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/menu_main_menu.xml.flat",
+        "source": "com.example.firebase.app-main-45:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/layout_activity_user_list.xml.flat",
+        "source": "com.example.firebase.app-main-45:/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_circle_background.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/layout_activity_chat.xml.flat",
+        "source": "com.example.firebase.app-main-45:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_baseline_insert_photo_24.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/baseline_insert_photo_24.xml"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_logo.png.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.firebase.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.firebase.app-merged_res-43:/drawable_baseline_person_2_24.xml.flat",
+        "source": "com.example.firebase.app-main-45:/drawable/baseline_person_2_24.xml"
+    }
+]
